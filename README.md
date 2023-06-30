@@ -37,11 +37,8 @@ The project aimed to investigate the utilization of Convolutional Neural Network
 <h3>Conclusion : </h3>
 The findings highlight the potential of deep learning for art classification, with implications for art cataloging and authentication. Further research can explore additional architectures and augmentation methods in this field.
 
-<h3> Inspiration : </h3>
-Our goal was to create a model that learn to identify the artist analysing new pictures with a hope to learn new techniques from public kernels or see some interesting usage of this data.
-
 <h3> Acknowledgements : </h3>
-The data was scraped from artchallenge.ru during the end of February 2019.
+The data was scraped from artchallenge.ru at the beginning of Februray 2023.
 
 
 
